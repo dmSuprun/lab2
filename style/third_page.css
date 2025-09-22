@@ -1,0 +1,9 @@
+@import url("style.css");
+body{
+    background-image: url("../img/owl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    text-align: center;
+}

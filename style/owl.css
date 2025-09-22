@@ -1,0 +1,31 @@
+@import url("style.css");
+h1{
+    text-align: center;
+}
+h3{
+    text-align: left;
+}
+img{
+    float: left;
+    width: 20%;
+    margin-right: 2%;
+
+}
+P{
+    font-size: 1.3em;
+
+}
+.p1{
+    color: #003915;
+    text-decoration: underline;
+}
+.p2{
+    text-decoration: underline;
+}
+.selcted_word{
+    font-style: italic;
+    color: #b32424;
+}
+.owl_second{
+    float: right;
+}
